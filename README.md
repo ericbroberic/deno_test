@@ -1,1 +1,1 @@
-# deno_test
+A simple repo to test the capabilities of deno. https://deno.land/
